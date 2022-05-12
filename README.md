@@ -6,7 +6,8 @@ FlashCards is a simple game played from your terminal. A player is shown a serie
 At the end of the game, you will be shown in a percentage how many cards you answered correctly.
 
 ## Images
-![flashcardsgif](https://user-images.githubusercontent.com/97985027/168160223-c22a51d0-0801-4643-80b1-f51c60d814ba.gif)
+![flashcardsfinal](https://user-images.githubusercontent.com/97985027/168168665-700f8651-c8ba-4ee3-91e9-e90ad09cb0b5.gif)
+
 
 
 
