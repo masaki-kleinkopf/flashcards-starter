@@ -14,7 +14,7 @@ At the end of the game, you will be shown in a percentage how many cards you ans
 - [Masaki Kleinkopf](https://www.linkedin.com/in/masakikleinkopf/)
 
 ## Technologies Used
--This project was written in Javascript, and utilized Mocha and Chai for testing.
+- This project was written in Javascript, and utilized Mocha and Chai for testing.
 
 ## Implementation
 This game can be played by following these steps:
