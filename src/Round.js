@@ -26,7 +26,8 @@ class Round {
         if (this.incorrectGuesses.length === 0){
             return 100;
         } else {
-            return this.incorrectGuesses.length / this.turns * 100
+            const guesses = (this.turns - this.incorrectGuesses.length) / this.turns
+            return Math.round(guesses*100)
         };
     };
     
